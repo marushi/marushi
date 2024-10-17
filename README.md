@@ -1,4 +1,4 @@
-2024/10/15
+2024/10/17
 
 ## プロフィール
 - **氏名**: 丸子司恩
@@ -29,7 +29,7 @@
 ## スキル一覧
 | Item                     | Content                                                                                     |
 |--------------------------|---------------------------------------------------------------------------------------------|
-| **Programming Languages** | Dart, Python, Kotlin, Java, Swift, Objective-C, Ruby, javascript, Typescript        |
+| **Programming Languages** | Dart, Python, Kotlin, Java, Swift, Objective-C, Ruby, javascript, Typescript, Ruby        |
 | **Frameworks**           | Flutter, Ruby on Rails, React, Flask, Laravel, Node.js                                   |
 | **Container Technology** | Docker                                                                                     |
 | **CI/CD**                | CircleCI, GitLab, Bitrise, DeployGate, Github Actions, Firebase App Distribution                          |
@@ -61,7 +61,7 @@
   - 既存のアプリをOEM展開するために、スクラッチからリファクタリングしつつ開発
   - OIDC連携のバックエンド + フロントエンドを開発
   - Github AcitonsでOEM毎のアプリ提供の自動化
-- **使用技術**: Flutter, Node, MongoDB
+- **使用技術**: Flutter, Node, Ruby On Rails, MongoDB
 - **その他ツール**: GitHub, Slack, Docker, Notion
 
 ### 医療機関の同意書管理システムの開発（フリーランス）
