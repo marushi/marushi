@@ -186,7 +186,7 @@
 </details>
 
 ## Profile
-- **Name**: Tsukasa Maruko
+- **Name**: Shion Maruko
 - **Date of Birth**: January 30, 1998
 - **Age**: 27 years old
 - **Gender**: Male
