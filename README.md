@@ -12,7 +12,7 @@
 - **性別**: 男
 - **特記**:
   - 英語のコミュニケーションが可能です。[YouTubeチャンネル](https://www.youtube.com/@omotenashi-japan)
-  - TOEIC 875、IELTS 6.0
+  - TOEIC 875、IELTS 7.0
 
 ## 略歴
 
@@ -192,7 +192,7 @@
 - **Gender**: Male
 - **Notes**:
   - Capable of communicating in English. [YouTube Channel](https://www.youtube.com/@omotenashi-japan)
-  - TOEIC 875, IELTS 6.0
+  - TOEIC 875, IELTS 7.0
 
 ## Career History
 
