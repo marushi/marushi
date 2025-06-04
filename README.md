@@ -11,7 +11,6 @@
 - **年齢**: 27歳
 - **性別**: 男
 - **特記**:
-  - 英語のコミュニケーションが可能です。[YouTubeチャンネル](https://www.youtube.com/@omotenashi-japan)
   - TOEIC 875、IELTS 7.0
 
 ## 略歴
