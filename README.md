@@ -190,7 +190,6 @@
 - **Age**: 27 years old
 - **Gender**: Male
 - **Notes**:
-  - Capable of communicating in English. [YouTube Channel](https://www.youtube.com/@omotenashi-japan)
   - TOEIC 875, IELTS 7.0
 
 ## Career History
