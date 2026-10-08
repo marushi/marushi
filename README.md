@@ -11,13 +11,13 @@
 - **語学**: 英語（TOEIC 875、IELTS 7.0）
 
 ## 主要スキル
-| 分野 | 技術 |
-|---|---|
-| **モバイル** | <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift" height="36" /><br>Flutter, Dart, Kotlin, Swift |
-| **バックエンド** | <img src="https://skillicons.dev/icons?i=rails,nodejs,dotnet,flask" height="36" /><br>Ruby on Rails, Node.js, .NET, Flask |
-| **フロントエンド** | <img src="https://skillicons.dev/icons?i=react,ts,astro" height="36" /><br>React, TypeScript, Astro |
-| **クラウド・インフラ** | <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,cloudflare,terraform,docker" height="36" /><br>AWS, GCP, Azure, Firebase, Cloudflare, Terraform, Docker |
-| **AI / 開発支援** | Claude Code（サブエージェント、hooks）, MCP（Figma, Notion, mcp_flutter） |
+| 分野 | メイン | その他 |
+|---|---|---|
+| **モバイル** | <img src="https://skillicons.dev/icons?i=flutter,dart" height="36" /><br>Flutter, Dart | Kotlin, Java, Swift, Objective-C |
+| **バックエンド** | <img src="https://skillicons.dev/icons?i=rails,nodejs" height="36" /><br>Ruby on Rails, Node.js | .NET, Flask, Laravel |
+| **フロントエンド** | <img src="https://skillicons.dev/icons?i=react,ts" height="36" /><br>React, TypeScript | Astro |
+| **クラウド・インフラ** | <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,terraform" height="36" /><br>AWS, GCP, Firebase, Terraform | Azure, Cloudflare, Docker |
+| **AI / 開発支援** | Claude Code（サブエージェント、hooks） | MCP（Figma, Notion, mcp_flutter）, ChatGPT（画像生成） |
 
 ## AI活用
 - **デザイナー不在でのUI制作**: Figma MCP と ChatGPT の画像生成を組み合わせ、画面デザイン・アイコン・ゲーム素材などを内製。デザイナーがいないチームでもポイ活アプリの機能追加や新規ミニゲームアプリを開発
@@ -266,13 +266,13 @@
 - **Languages**: Japanese (native), English (TOEIC 875, IELTS 7.0)
 
 ## Core Skills
-| Area | Technologies |
-|---|---|
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift" height="36" /><br>Flutter, Dart, Kotlin, Swift |
-| **Backend** | <img src="https://skillicons.dev/icons?i=rails,nodejs,dotnet,flask" height="36" /><br>Ruby on Rails, Node.js, .NET, Flask |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,ts,astro" height="36" /><br>React, TypeScript, Astro |
-| **Cloud / Infra** | <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,cloudflare,terraform,docker" height="36" /><br>AWS, GCP, Azure, Firebase, Cloudflare, Terraform, Docker |
-| **AI / Dev Assistance** | Claude Code (sub-agents, hooks), MCP (Figma, Notion, mcp_flutter) |
+| Area | Main | Also Used |
+|---|---|---|
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart" height="36" /><br>Flutter, Dart | Kotlin, Java, Swift, Objective-C |
+| **Backend** | <img src="https://skillicons.dev/icons?i=rails,nodejs" height="36" /><br>Ruby on Rails, Node.js | .NET, Flask, Laravel |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,ts" height="36" /><br>React, TypeScript | Astro |
+| **Cloud / Infra** | <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,terraform" height="36" /><br>AWS, GCP, Firebase, Terraform | Azure, Cloudflare, Docker |
+| **AI / Dev Assistance** | Claude Code (sub-agents, hooks) | MCP (Figma, Notion, mcp_flutter), ChatGPT (image generation) |
 
 ## AI Utilization
 - **UI production without a designer**: Produces screen designs, icons, and game assets in-house by combining the Figma MCP with ChatGPT image generation, enabling feature work on a points-reward app and a new mini-game app in a team with no designer.
