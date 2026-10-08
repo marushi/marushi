@@ -1,5 +1,5 @@
 # Shion Maruko / 丸子司恩
-**Full-Stack Engineer (Flutter / Ruby on Rails / .NET) · AI-Driven Development · Founder of Smart Connections LLC**
+**Full-Stack Engineer (Flutter / Ruby on Rails / React / Cloud Infra) · AI-Driven Development · Founder of Smart Connections LLC**
 
 2026/10/07
 
