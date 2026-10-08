@@ -22,8 +22,8 @@
 ## AI活用
 - **デザイナー不在でのUI制作**: Figma MCP と ChatGPT の画像生成を組み合わせ、画面デザイン・アイコン・ゲーム素材などを内製。デザイナーがいないチームでもポイ活アプリの機能追加や新規ミニゲームアプリを開発
 - **ストア素材の作成**: Figma MCP を使い、App Store 用スクリーンショットを AI と一緒に作成
-- **マルチエージェント開発体制の構築**: オーケストレーター用リポジトリにサブエージェント定義とタスク管理（backlog / in_progress / done）を集約し、iOS・Android・Web・API・LP など複数リポジトリの開発を Claude Code で並行して推進
-- **AIが自律的に動ける環境づくり**: CLAUDE.md による規約整備、hooks・サブエージェントの使い分けにより、設計〜実装〜レビューの流れをAIエージェントに任せられる状態を整備
+- **マルチエージェント開発体制の構築**: オーケストレーター用リポジトリにサブエージェント定義とドキュメントを集約し、AI から呼び出せるように管理することで、iOS・Android・Web・API・LP など複数リポジトリの開発を Claude Code で並行して実施
+- **AIが自律的に動ける環境づくり**: CLAUDE.md による規約整備と、hooks・サブエージェントの使い分けにより、開発作業を AI エージェントに任せられる環境を整備
 - **MCP 連携**: Notion MCP で複数プロジェクトのタスク・仕様を一元管理。mcp_flutter を導入し、スクリーンショット取得・Widget ツリー確認・ホットリロードを AI から実行できる Flutter 開発環境を構築
 - **開発以外への展開**: 事業計画、採用・労務まわりの書類整備など、事業運営の業務にも AI を日常的に活用
 
@@ -277,8 +277,8 @@
 ## AI Utilization
 - **UI production without a designer**: Produces screen designs, icons, and game assets in-house by combining the Figma MCP with ChatGPT image generation, enabling feature work on a points-reward app and a new mini-game app in a team with no designer.
 - **Store assets**: Creates App Store screenshots together with AI using the Figma MCP.
-- **Multi-agent development setup**: Consolidated sub-agent definitions and task management (backlog / in_progress / done) in an orchestrator repository, driving parallel development across multiple repositories (iOS, Android, Web, API, LP) with Claude Code.
-- **Environments where AI can work autonomously**: Set up conventions in CLAUDE.md and uses hooks and sub-agents deliberately, so the design → implementation → review flow can be delegated to AI agents.
+- **Multi-agent development setup**: Consolidated sub-agent definitions and docs in an orchestrator repository and managed them so AI can call them, running parallel development across multiple repositories (iOS, Android, Web, API, LP) with Claude Code.
+- **Environments where AI can work autonomously**: Set up conventions in CLAUDE.md and used hooks and sub-agents for different purposes, so development work can be delegated to AI agents.
 - **MCP integrations**: Manages tasks and specs for multiple projects in one place with the Notion MCP. Introduced mcp_flutter to build a Flutter environment where AI can take screenshots, inspect the widget tree, and trigger hot reloads.
 - **Beyond development**: Uses AI daily for business operations as well, such as business planning and preparing hiring and HR documents.
 
