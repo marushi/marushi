@@ -16,7 +16,7 @@
 | **モバイル** | <img src="https://skillicons.dev/icons?i=flutter,dart" height="36" /><br>Flutter, Dart | Kotlin, Java, Swift, Objective-C |
 | **バックエンド** | <img src="https://skillicons.dev/icons?i=rails,nodejs" height="36" /><br>Ruby on Rails, Node.js | .NET, Flask, Laravel |
 | **フロントエンド** | <img src="https://skillicons.dev/icons?i=react,ts" height="36" /><br>React, TypeScript | Astro |
-| **クラウド・インフラ** | <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,terraform" height="36" /><br>AWS, GCP, Firebase, Terraform | Azure, Cloudflare, Docker |
+| **クラウド・インフラ** | <img src="https://skillicons.dev/icons?i=aws,firebase,terraform" height="36" /><br>AWS, Firebase, Terraform | GCP, Azure, Cloudflare, Docker |
 | **AI / 開発支援** | Claude Code（サブエージェント、hooks） | MCP（Figma, Notion, mcp_flutter）, ChatGPT（画像生成） |
 
 ## AI活用
@@ -271,7 +271,7 @@
 | **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart" height="36" /><br>Flutter, Dart | Kotlin, Java, Swift, Objective-C |
 | **Backend** | <img src="https://skillicons.dev/icons?i=rails,nodejs" height="36" /><br>Ruby on Rails, Node.js | .NET, Flask, Laravel |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,ts" height="36" /><br>React, TypeScript | Astro |
-| **Cloud / Infra** | <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,terraform" height="36" /><br>AWS, GCP, Firebase, Terraform | Azure, Cloudflare, Docker |
+| **Cloud / Infra** | <img src="https://skillicons.dev/icons?i=aws,firebase,terraform" height="36" /><br>AWS, Firebase, Terraform | GCP, Azure, Cloudflare, Docker |
 | **AI / Dev Assistance** | Claude Code (sub-agents, hooks) | MCP (Figma, Notion, mcp_flutter), ChatGPT (image generation) |
 
 ## AI Utilization
