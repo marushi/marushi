@@ -363,9 +363,9 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
 - **Period**: Dec 2024 – Apr 2025
 - **Role**: SRE, Full-Stack Engineer
 - **Responsibilities**:
-  - Manage infrastructure using Terraform and add infrastructure resources when implementing new features.
-  - Manage and operate Datadog.
-  - Implement additional backend features and fix bugs.
+  - Managed infrastructure with Terraform and added infrastructure resources for new features.
+  - Managed and operated Datadog.
+  - Implemented additional backend features and fixed bugs.
 - **Technologies Used**: Ruby on Rails, Terraform, AWS, MySQL, Datadog
 - **Other Tools**: Slack, Notion, Asana
 
@@ -373,9 +373,9 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
 - **Period**: Jun 2024 – Mar 2025
 - **Role**: Full-Stack Engineer
 - **Responsibilities**:
-  - Refactor and redevelop an existing app from scratch for OEM distribution.
-  - Develop backend and frontend components for OIDC integration.
-  - Automate app distribution for each OEM using GitHub Actions.
+  - Refactored and redeveloped an existing app from scratch for OEM distribution.
+  - Developed backend and frontend components for OIDC integration.
+  - Automated app distribution for each OEM using GitHub Actions.
 - **Technologies Used**: Flutter, Node.js, Ruby on Rails, MongoDB
 - **Other Tools**: GitHub, Slack, Docker, Notion
 
@@ -383,11 +383,11 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
 - **Period**: Jun 2024 – Dec 2024
 - **Role**: Mobile Engineer
 - **Responsibilities**:
-  - Develop an eSIM activation app for smartphone usage.
-  - Migrate state management to Riverpod, restructure the architecture, and perform a complete refactoring.
-  - Introduce end-to-end testing.
-  - Fix existing bugs and update the UI.
-  - Implement OpsRamp as a monitoring tool in the BFF.
+  - Developed an eSIM activation app for smartphones.
+  - Migrated state management to Riverpod, restructured the architecture, and carried out a full refactoring.
+  - Introduced end-to-end testing.
+  - Fixed existing bugs and updated the UI.
+  - Introduced OpsRamp as a monitoring tool in the BFF.
 - **Technologies Used**: Flutter, Node.js, TypeScript, Firebase
 - **Other Tools**: CodeCommit, Slack, Jira
 
@@ -395,9 +395,9 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
 - **Period**: Feb 2024 – Oct 2025
 - **Role**: Full-Stack Engineer
 - **Responsibilities**:
-  - Develop the frontend using React.
-  - Develop the backend using Flask and Laravel.
-  - Create an editor using ReactQuill.
+  - Developed the frontend using React.
+  - Developed the backend using Flask and Laravel.
+  - Built an editor using ReactQuill.
 - **Technologies Used**: React, TypeScript, Flask, Laravel, MySQL
 - **Other Tools**: GitHub, Slack, Backlog, ClickUp
 
@@ -405,8 +405,8 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
 - **Period**: Feb 2024 – May 2024
 - **Role**: Mobile Engineer
 - **Responsibilities**:
-  - Develop the frontend using Flutter.
-  - Refactor the code by migrating from Provider to Riverpod.
+  - Developed the frontend using Flutter.
+  - Refactored the code by migrating from Provider to Riverpod.
 - **Technologies Used**: Flutter, Python
 - **Other Tools**: GitHub, Slack, GCP, Alchemy, Cloud Functions
 
@@ -414,11 +414,11 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
 - **Period**: Jun 2023 – Jun 2024
 - **Role**: Full-Stack Engineer
 - **Responsibilities**:
-  - Develop GraphQL APIs and optimize existing APIs for better performance.
-  - Add a new login method using employee numbers.
-  - Develop SAML integration functionality.
-  - Develop the Manual Management System and set up its infrastructure.
-  - Establish data integration with existing systems using linked keys.
+  - Developed GraphQL APIs and optimized existing APIs for better performance.
+  - Added a new login method using employee numbers.
+  - Developed SAML integration functionality.
+  - Developed the Manual Management System and set up its infrastructure.
+  - Built data integration with existing systems using linked keys.
 - **Technologies Used**: Ruby on Rails, React, Terraform, MySQL
 - **Other Tools**: CircleCI, Slack, Datadog, Sentry, AWS, Docker, Miro
 
@@ -426,9 +426,9 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
 - **Period**: Jun 2023 – Sep 2023
 - **Role**: Mobile Engineer
 - **Responsibilities**:
-  - Develop a mental health care app using Flutter and Firebase.
-  - Implement login functionality using Firebase Authentication.
-  - Design the Firestore database and establish security rules.
+  - Developed a mental health care app using Flutter and Firebase.
+  - Implemented login functionality using Firebase Authentication.
+  - Designed the Firestore database and set up security rules.
 - **Technologies Used**: Flutter, Python
 - **Other Tools**: GitHub, Slack, Miro, Cloud Functions
 
@@ -436,8 +436,8 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
 - **Period**: Dec 2022 – Jul 2023
 - **Role**: Lead, Full-Stack Engineer
 - **Responsibilities**:
-  - Develop a relay app that transforms an Android device into a server to accept requests from other devices.
-  - Develop a FeliCa module for NFC FeliCa usage.
+  - Developed a relay app that turns an Android device into a server accepting requests from other devices.
+  - Developed a FeliCa module for NFC FeliCa usage.
 - **Technologies Used**: Kotlin, Java, Terraform, Ruby on Rails
 - **Other Tools**: GitLab, draw.io, AWS, Docker
 
@@ -445,19 +445,19 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
 - **Period**: May 2022 – Oct 2022
 - **Role**: Project Manager (PM)
 - **Responsibilities**:
-  - Provide consulting for the introduction of a new payment method to other businesses.
-  - Manage project schedules and supply source code.
-  - Fix bugs.
+  - Provided consulting on introducing a new payment method to other businesses.
+  - Managed project schedules and supplied source code.
+  - Fixed bugs.
 - **Technologies Used**: Kotlin, Java
 
 ### Development of a Payment App for Android Payment Terminals (Full-Time)
 - **Period**: Jul 2021 – Jul 2023
 - **Role**: Mobile Engineer
 - **Responsibilities**:
-  - Develop a cashless payment app for Android devices.
-  - Add functionalities for electronic money and QR payments.
-  - Create specification documents.
-  - Fix bugs and conduct code reviews.
+  - Developed a cashless payment app for Android devices.
+  - Added electronic money and QR payment features.
+  - Created specification documents.
+  - Fixed bugs and conducted code reviews.
 - **Technologies Used**: Kotlin, Java
 - **Other Tools**: GitLab, Firebase Analytics, Firebase Crashlytics
 
@@ -465,9 +465,9 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
 - **Period**: Jul 2021 – Jul 2023
 - **Role**: Mobile Engineer
 - **Responsibilities**:
-  - Develop and maintain cashless payment apps for both iOS and Android devices.
-  - Manage tasks as a Release Manager.
-  - Conduct code reviews.
+  - Developed and maintained cashless payment apps for iOS and Android.
+  - Managed tasks as Release Manager.
+  - Conducted code reviews.
 - **Technologies Used**: Kotlin, Java, Swift, Objective-C
 - **Other Tools**: GitLab, Firebase Analytics, Firebase Crashlytics
 
@@ -475,9 +475,9 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
 - **Period**: Mar 2021 – Aug 2021
 - **Role**: Mobile Engineer
 - **Responsibilities**:
-  - Develop an English learning app focused on reading practice.
-  - Implement chat and login functionalities for students and teachers.
-  - Develop features using Speech To Text and Text To Speech.
+  - Developed an English learning app focused on reading-aloud practice.
+  - Implemented chat and login features for students and teachers.
+  - Developed features using Speech To Text and Text To Speech.
 - **Technologies Used**: Flutter, Python
 - **Other Tools**: Firebase Authentication, Firestore, Cloud Functions, Firebase Cloud Messaging
 
@@ -485,10 +485,10 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
 - **Period**: Aug 2020 – Aug 2023
 - **Role**: Mobile Engineer
 - **Responsibilities**:
-  - Develop an app to support lifestyle improvements (habit formation, concentration enhancement, sleep improvement, etc.).
-  - Add new features and fix bugs.
-  - Automate continuous delivery using Bitrise and DeployGate.
-  - Analyze user data using Firebase AB Testing.
+  - Developed an app to support lifestyle improvements (habit formation, concentration enhancement, sleep improvement, etc.).
+  - Added new features and fixed bugs.
+  - Automated continuous delivery using Bitrise and DeployGate.
+  - Analyzed user data using Firebase A/B Testing.
 - **Technologies Used**: Swift, Kotlin, Flutter
 - **Other Tools**: Firebase Event, Firebase Crashlytics
 
