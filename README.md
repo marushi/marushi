@@ -1,5 +1,5 @@
 # Shion Maruko / 丸子司恩
-**Full-Stack Engineer (Flutter / Ruby on Rails / React / Cloud Infra) · AI-Driven Development · Founder of Smart Connections LLC**
+**Full-Stack Engineer (Flutter / Ruby on Rails / React / Cloud Infra) · AI-Driven Development**
 
 2026/10/07
 
@@ -9,6 +9,15 @@
 ## プロフィール
 - **氏名**: 丸子司恩
 - **語学**: 英語（TOEIC 875、IELTS 7.0）
+
+## 主要スキル
+| 分野 | 技術 |
+|---|---|
+| **モバイル** | <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift" height="36" /><br>Flutter, Dart, Kotlin, Swift |
+| **バックエンド** | <img src="https://skillicons.dev/icons?i=rails,nodejs,dotnet,flask" height="36" /><br>Ruby on Rails, Node.js, .NET, Flask |
+| **フロントエンド** | <img src="https://skillicons.dev/icons?i=react,ts,astro" height="36" /><br>React, TypeScript, Astro |
+| **クラウド・インフラ** | <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,cloudflare,terraform,docker" height="36" /><br>AWS, GCP, Azure, Firebase, Cloudflare, Terraform, Docker |
+| **AI / 開発支援** | Claude Code（サブエージェント、hooks）, MCP（Figma, Notion, mcp_flutter） |
 
 ## AI活用
 - **デザイナー不在でのUI制作**: Figma MCP と ChatGPT の画像生成を組み合わせ、画面デザイン・アイコン・ゲーム素材などを内製。デザイナーがいないチームでもポイ活アプリの機能追加や新規ミニゲームアプリを開発
@@ -25,7 +34,6 @@
   - 月謝・生徒数・固定費をもとにした収支計画の作成
   - 講師の採用、雇用契約・勤怠・給与管理の仕組みづくり
   - チラシ配布や Google ビジネスプロフィールを使った集客施策の設計
-- **ソフトウェア受託開発**: 顧客との要件整理・見積もりから、設計・開発・運用保守までを担当
 
 ### 開発案件での開発以外の役割
 - 大手テーマパーク公式アプリ: ビジネス側の要望をヒアリングして Issue に落とし込み、米国本社と英語で調整
@@ -257,6 +265,15 @@
 - **Name**: Shion Maruko
 - **Languages**: Japanese (native), English (TOEIC 875, IELTS 7.0)
 
+## Core Skills
+| Area | Technologies |
+|---|---|
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift" height="36" /><br>Flutter, Dart, Kotlin, Swift |
+| **Backend** | <img src="https://skillicons.dev/icons?i=rails,nodejs,dotnet,flask" height="36" /><br>Ruby on Rails, Node.js, .NET, Flask |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,ts,astro" height="36" /><br>React, TypeScript, Astro |
+| **Cloud / Infra** | <img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,cloudflare,terraform,docker" height="36" /><br>AWS, GCP, Azure, Firebase, Cloudflare, Terraform, Docker |
+| **AI / Dev Assistance** | Claude Code (sub-agents, hooks), MCP (Figma, Notion, mcp_flutter) |
+
 ## AI Utilization
 - **UI production without a designer**: Produces screen designs, icons, and game assets in-house by combining the Figma MCP with ChatGPT image generation, enabling feature work on a points-reward app and a new mini-game app in a team with no designer.
 - **Store assets**: Creates App Store screenshots together with AI using the Figma MCP.
@@ -272,7 +289,6 @@
   - Built a financial plan based on tuition, student numbers, and fixed costs.
   - Hired instructors and set up employment contracts, attendance tracking, and payroll.
   - Planned customer acquisition through flyer distribution and Google Business Profile.
-- **Contract software development**: Handled client requirements and estimates, design, development, operations, and maintenance.
 
 ### Non-Development Roles in Projects
 - Official app for a major theme park: gathered business-side requests, turned them into issues, and coordinated in English with the U.S. headquarters.
