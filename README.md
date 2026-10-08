@@ -1,5 +1,5 @@
 # Shion Maruko / 丸子司恩
-**Full-Stack Engineer (Flutter / Ruby on Rails / React / Cloud Infra) · AI-Driven Development**
+**Full-Stack Engineer (Flutter / Ruby on Rails / React / Cloud Infra) · AI-Assisted Development**
 
 2026/10/07
 
@@ -22,9 +22,9 @@
 ## AI活用
 - **デザイナー不在でのUI制作**: Figma MCP と ChatGPT の画像生成を組み合わせ、画面デザイン・アイコン・ゲーム素材などを内製。デザイナーがいないチームでもポイ活アプリの機能追加や新規ミニゲームアプリを開発
 - **ストア素材の作成**: Figma MCP を使い、App Store 用スクリーンショットを AI と一緒に作成
-- **AIが自律的に動ける環境づくり**: CLAUDE.md による規約整備と、hooks・サブエージェントの使い分けにより、開発作業を AI エージェントに任せられる環境を整備
-- **MCP 連携**: Notion MCP で複数プロジェクトのタスク・仕様を一元管理。mcp_flutter を導入し、スクリーンショット取得・Widget ツリー確認・ホットリロードを AI から実行できる Flutter 開発環境を構築
-- **開発以外への展開**: 事業計画、採用・労務まわりの書類整備など、事業運営の業務にも AI を日常的に活用
+- **Claude Code の環境整備**: CLAUDE.md による規約整備、hooks・サブエージェントの設定
+- **MCP 連携**: Notion MCP で複数プロジェクトの仕様・ドキュメントを管理。mcp_flutter を導入し、スクリーンショット取得・Widget ツリー確認・ホットリロードを AI から実行できる Flutter 開発環境を構築
+- **開発以外への展開**: 事業計画、採用・労務まわりの書類整備など、事業運営の業務にも AI を活用
 
 ## エンジニアリング以外の経験
 ### 事業運営
@@ -45,7 +45,7 @@
 
 | 期間                   | 在籍期間            | プロジェクト名                                    | 役割                        | 使用技術                                       |
 |------------------------|---------------------|---------------------------------------------------|-----------------------------|------------------------------------------------|
-| 開発中                 | —                   | そろばん教室ホームページ・学習アプリの開発（自社） | 代表・フルスタックエンジニア | Flutter, Astro, Cloudflare                     |
+| 開発中                 | —                   | そろばん教室ホームページ・学習アプリの開発         | 企画・フルスタックエンジニア | Flutter, Astro, Cloudflare                     |
 | 2026年1月～現在        | 10ヶ月（在籍中）    | ポイ活アプリ・ミニゲームアプリの開発（受託）       | アプリエンジニア（デザイン兼任） | Flutter, Flame, Firebase, Cloud Functions  |
 | 2025年10月～現在       | 1年1ヶ月（在籍中）  | 大手テーマパーク公式アプリの開発                   | ソフトウェアエンジニア       | Flutter, .NET, Node.js, Firebase, GCP, Azure   |
 | 2024年12月～2025年4月  | 5ヶ月               | 契約書管理クラウドサービスの開発                   | SRE、フルスタックエンジニア  | Ruby on Rails, Terraform, AWS, MySQL, Datadog  |
@@ -83,11 +83,11 @@
 <details>
 <summary>プロジェクト詳細（クリックして展開）</summary>
 
-### そろばん教室ホームページ・学習アプリの開発（自社サービス）
+### そろばん教室ホームページ・学習アプリの開発
 - **期間**: 開発中
-- **役割**: 代表・企画・フルスタックエンジニア
+- **役割**: 企画・フルスタックエンジニア
 - **業務内容**:
-  - 自社のそろばん教室のホームページと、そろばん学習アプリを企画から開発まで一人で担当
+  - そろばん教室のホームページと、そろばん学習アプリを企画から開発まで一人で担当
   - Figma MCP と画像生成 AI でデザイン・素材を内製
   - GitHub Actions で CI/CD を構築し、ビルド・配信を自動化
   - Figma MCP を使って App Store 用スクリーンショットを作成
@@ -113,7 +113,7 @@
 - **期間**: 2025年10月～現在
 - **役割**: ソフトウェアエンジニア
 - **業務内容**:
-  - ビジネス側と開発チームの間に立ち、要望をヒアリングして Issue に起こし、開発を推進
+  - ビジネス側と開発チームの間に立ち、要望をヒアリングして Issue に起こし、実装・リリースまで担当
   - 米国本社のチームと英語でやりとりしながら仕様の調整・開発を進行
   - Flutter アプリと .NET / Node.js のバックエンドの開発
   - Flutter へのリプレイス後、数年間対応されていなかった、日本チームが繰り返し要望していた課題を解決
@@ -274,11 +274,11 @@
 | **AI / Dev Assistance** | Claude Code (sub-agents, hooks) | MCP (Figma, Notion, mcp_flutter), ChatGPT (image generation) |
 
 ## AI Utilization
-- **UI production without a designer**: Produces screen designs, icons, and game assets in-house by combining the Figma MCP with ChatGPT image generation, enabling feature work on a points-reward app and a new mini-game app in a team with no designer.
-- **Store assets**: Creates App Store screenshots together with AI using the Figma MCP.
-- **Environments where AI can work autonomously**: Set up conventions in CLAUDE.md and used hooks and sub-agents for different purposes, so development work can be delegated to AI agents.
-- **MCP integrations**: Manages tasks and specs for multiple projects in one place with the Notion MCP. Introduced mcp_flutter to build a Flutter environment where AI can take screenshots, inspect the widget tree, and trigger hot reloads.
-- **Beyond development**: Uses AI daily for business operations as well, such as business planning and preparing hiring and HR documents.
+- **UI production without a designer**: Produced screen designs, icons, and game assets in-house by combining the Figma MCP with ChatGPT image generation, enabling feature work on a points-reward app and a new mini-game app in a team with no designer.
+- **Store assets**: Created App Store screenshots with AI using the Figma MCP.
+- **Claude Code setup**: Set up conventions in CLAUDE.md and configured hooks and sub-agents.
+- **MCP integrations**: Managed specs and docs for multiple projects with the Notion MCP. Introduced mcp_flutter to build a Flutter environment where AI can take screenshots, inspect the widget tree, and trigger hot reloads.
+- **Beyond development**: Used AI for business operations as well, such as business planning and preparing hiring and HR documents.
 
 ## Non-Engineering Experience
 ### Business Operations
@@ -299,7 +299,7 @@
 
 | Period                | Duration                   | Project Name                                                         | Role                            | Technologies Used                              |
 |-----------------------|----------------------------|----------------------------------------------------------------------|---------------------------------|------------------------------------------------|
-| In progress           | —                          | Abacus School Website & Learning App (In-house)                      | Founder, Full-Stack Engineer    | Flutter, Astro, Cloudflare                     |
+| In progress           | —                          | Abacus School Website & Learning App                                 | Planner, Full-Stack Engineer    | Flutter, Astro, Cloudflare                     |
 | Jan 2026 – Present    | 10 months (ongoing)        | Points-Reward App & Mini-Game App (Contract)                         | App Engineer (incl. design)     | Flutter, Flame, Firebase, Cloud Functions      |
 | Oct 2025 – Present    | 1 year 1 month (ongoing)   | Official App for a Major Theme Park                                  | Software Engineer               | Flutter, .NET, Node.js, Firebase, GCP, Azure   |
 | Dec 2024 – Apr 2025   | 5 months                   | Development of a Contract Management Cloud Service                   | SRE, Full-Stack Engineer        | Ruby on Rails, Terraform, AWS, MySQL, Datadog  |
@@ -337,11 +337,11 @@
 <details>
 <summary>Project details (click to expand)</summary>
 
-### Abacus School Website & Learning App (In-house)
+### Abacus School Website & Learning App
 - **Period**: In progress
-- **Role**: Founder, Planner, Full-Stack Engineer
+- **Role**: Planner, Full-Stack Engineer
 - **Responsibilities**:
-  - Planned and built the website for the company's abacus school and an abacus learning app, solo.
+  - Planned and built the website for an abacus school and an abacus learning app, solo.
   - Produced designs and assets in-house using the Figma MCP and image-generation AI.
   - Built CI/CD with GitHub Actions to automate builds and distribution.
   - Created App Store screenshots using the Figma MCP.
@@ -367,7 +367,7 @@
 - **Period**: Oct 2025 – Present
 - **Role**: Software Engineer
 - **Responsibilities**:
-  - Bridged business stakeholders and the development team: gathered requests, turned them into issues, and drove development.
+  - Bridged business stakeholders and the development team: gathered requests, turned them into issues, and implemented and released them.
   - Coordinated specifications and development in English with the U.S. headquarters team.
   - Developed the Flutter app and .NET / Node.js backends.
   - Resolved an issue the Japan team had repeatedly raised, which had been left unaddressed for several years after the replacement with Flutter.
