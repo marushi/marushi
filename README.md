@@ -66,7 +66,7 @@
 ## スキル一覧
 | Item                         | Content                                                                                     |
 |------------------------------|---------------------------------------------------------------------------------------------|
-| **AI / 開発支援**            | Claude Code（サブエージェント、hooks、マルチエージェント構成）, MCP（Figma, Notion, mcp_flutter）, ChatGPT（画像生成） |
+| **AI / 開発支援**            | Claude Code（サブエージェント、hooks）, MCP（Figma, Notion, mcp_flutter）, ChatGPT（画像生成） |
 | **Programming Languages**    | Dart, Python, Kotlin, Java, Swift, Objective-C, Ruby, JavaScript, TypeScript                |
 | **Frameworks**               | Flutter, Flame, Ruby on Rails, React, Flask, Laravel, Node.js, .NET, Astro                  |
 | **Container Technology**     | Docker                                                                                      |
@@ -320,7 +320,7 @@
 
 | Item                          | Content                                                                                         |
 |-------------------------------|-------------------------------------------------------------------------------------------------|
-| **AI / Dev Assistance**       | Claude Code (sub-agents, hooks, multi-agent setups), MCP (Figma, Notion, mcp_flutter), ChatGPT (image generation) |
+| **AI / Dev Assistance**       | Claude Code (sub-agents, hooks), MCP (Figma, Notion, mcp_flutter), ChatGPT (image generation) |
 | **Programming Languages**     | Dart, Python, Kotlin, Java, Swift, Objective-C, Ruby, JavaScript, TypeScript                    |
 | **Frameworks**                | Flutter, Flame, Ruby on Rails, React, Flask, Laravel, Node.js, .NET, Astro                      |
 | **Container Technology**      | Docker                                                                                          |
