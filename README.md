@@ -6,13 +6,6 @@
 <details>
 <summary>日本語 (クリックして展開)</summary>
 
-## サマリー
-モバイル（Flutter / iOS / Android）を軸に、Ruby on Rails・React・Node.js・.NET などのバックエンドやWeb、Terraform・AWS・GCP・Azure のインフラまで担えるフルスタックエンジニアです。
-
-- **AI駆動開発**: Claude Code のマルチエージェント構成や MCP（Figma / Notion など）と画像生成AIを組み合わせ、デザイナー不在の少人数チームでもデザインから実装・リリースまで回せる体制をつくっています。
-- **ビジネスと開発の橋渡し**: 要望のヒアリングから Issue 化・優先度づけまでを担い、海外本社とも英語（TOEIC 875 / IELTS 7.0）で直接やりとりしながら開発を前に進めます。
-- **事業づくり**: 2022年に合同会社Smart Connectionsを設立。受託開発に加え、そろばん教室の開校準備と自社アプリ・ホームページの開発を通して、商圏分析・収支計画・採用・集客まで経験しています。
-
 ## プロフィール
 - **氏名**: 丸子司恩
 - **語学**: 英語（TOEIC 875、IELTS 7.0）
@@ -25,20 +18,21 @@
 - **MCP 連携**: Notion MCP で複数プロジェクトのタスク・仕様を一元管理。mcp_flutter を導入し、スクリーンショット取得・Widget ツリー確認・ホットリロードを AI から実行できる Flutter 開発環境を構築
 - **開発以外への展開**: 事業計画、採用・労務まわりの書類整備など、事業運営の業務にも AI を日常的に活用
 
-## 事業・ビジネス経験
-### 合同会社Smart Connections 代表社員（2022年5月〜）
-- **ソフトウェア受託開発**: 顧客との要件整理・見積もりから、設計・開発・運用保守までを一貫して担当
-- **教育事業の立ち上げ**: 楽珠そろばん教室（フランチャイズ）千鳥橋校を開校準備中（大阪市此花区）
-  - 商圏・競合の分析と会場選定、月謝・生徒数・固定費をもとにした収支計画の策定
+## エンジニアリング以外の経験
+### 事業運営
+- **そろばん教室の開校準備**: 楽珠そろばん教室（フランチャイズ）千鳥橋校（大阪市此花区）
+  - 商圏・競合の分析と会場選定
+  - 月謝・生徒数・固定費をもとにした収支計画の作成
   - 講師の採用、雇用契約・勤怠・給与管理の仕組みづくり
   - チラシ配布や Google ビジネスプロフィールを使った集客施策の設計
-- **自社サービス開発**: 教室のホームページとそろばん学習アプリを、AI を活用して企画から開発・リリースまで一人で推進
+- **ソフトウェア受託開発**: 顧客との要件整理・見積もりから、設計・開発・運用保守までを担当
 
-### 開発案件でのビジネス寄りの役割
-- 大手テーマパーク公式アプリで、ビジネス側の要望をヒアリングして Issue に落とし込み、米国本社と英語で調整しながら開発を推進
-- 他事業者への新決済方法導入コンサルティング（PM としてスケジュール管理・顧客折衝）
-- キャッシュレス決済アプリのリリースマネージャー、Android 決済端末の新規プロダクトのリード
-- ポイ活アプリでの MDA フレームワークを用いたゲーミフィケーション設計と仮説検証
+### 開発案件での開発以外の役割
+- 大手テーマパーク公式アプリ: ビジネス側の要望をヒアリングして Issue に落とし込み、米国本社と英語で調整
+- 新決済方法導入コンサルティング: PM としてスケジュール管理・顧客折衝
+- キャッシュレス決済アプリ: リリースマネージャーとしてリリース日と内容を管理
+- Android 決済端末の新規プロダクト: リード
+- ポイ活アプリ: MDA フレームワークを用いたゲーミフィケーション設計と仮説検証
 
 ## 略歴
 
@@ -258,13 +252,6 @@
 
 </details>
 
-## Summary
-Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backends and web (Ruby on Rails, React, Node.js, .NET) and infrastructure (Terraform, AWS, GCP, Azure).
-
-- **AI-driven development**: Combines multi-agent setups in Claude Code, MCP integrations (Figma, Notion, etc.), and image-generation AI so that small teams without a designer can go from design to implementation and release.
-- **Bridging business and engineering**: Gathers requirements, turns them into issues, and sets priorities; communicates directly in English (TOEIC 875 / IELTS 7.0) with overseas headquarters to keep development moving.
-- **Building businesses**: Founded Smart Connections LLC in 2022. Beyond contract development, has handled trade-area analysis, financial planning, hiring, and marketing while preparing to open an abacus school and building its in-house app and website.
-
 ## Profile
 - **Name**: Shion Maruko
 - **Languages**: Japanese (native), English (TOEIC 875, IELTS 7.0)
@@ -277,20 +264,21 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
 - **MCP integrations**: Manages tasks and specs for multiple projects in one place with the Notion MCP. Introduced mcp_flutter to build a Flutter environment where AI can take screenshots, inspect the widget tree, and trigger hot reloads.
 - **Beyond development**: Uses AI daily for business operations as well, such as business planning and preparing hiring and HR documents.
 
-## Business Experience
-### Representative Member, Smart Connections LLC (May 2022 – Present)
-- **Contract software development**: Handles everything end to end, from requirements and estimates with clients through design, development, operations, and maintenance.
-- **Launching an education business**: Preparing to open the Chidoribashi branch of a franchise abacus school (楽珠そろばん教室) in Konohana-ku, Osaka.
-  - Analyzed the trade area and competitors, selected the venue, and built a financial plan based on tuition, student numbers, and fixed costs.
+## Non-Engineering Experience
+### Business Operations
+- **Preparing to open an abacus school**: Chidoribashi branch of a franchise abacus school (楽珠そろばん教室), Konohana-ku, Osaka
+  - Analyzed the trade area and competitors, and selected the venue.
+  - Built a financial plan based on tuition, student numbers, and fixed costs.
   - Hired instructors and set up employment contracts, attendance tracking, and payroll.
-  - Designed customer acquisition through flyer distribution and Google Business Profile.
-- **In-house product development**: Leading the school's website and an abacus learning app solo, from planning through development and release, using AI.
+  - Planned customer acquisition through flyer distribution and Google Business Profile.
+- **Contract software development**: Handled client requirements and estimates, design, development, operations, and maintenance.
 
-### Business-Facing Roles in Development Projects
-- Official app for a major theme park: gathered business-side requests, turned them into issues, and drove development while coordinating in English with the U.S. headquarters.
-- Consulting on introducing a new payment method to other businesses (as PM: schedule management and client negotiations).
-- Release manager for a cashless payment app; lead of a new product for Android payment terminals.
-- Gamification design and hypothesis testing with the MDA framework for a points-reward app.
+### Non-Development Roles in Projects
+- Official app for a major theme park: gathered business-side requests, turned them into issues, and coordinated in English with the U.S. headquarters.
+- Consulting on introducing a new payment method: as PM, managed schedules and client negotiations.
+- Cashless payment app: as Release Manager, managed release dates and scope.
+- New product for Android payment terminals: Lead.
+- Points-reward app: gamification design and hypothesis testing with the MDA framework.
 
 ## Career History
 
