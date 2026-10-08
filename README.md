@@ -38,7 +38,7 @@
 
 | 期間                   | 在籍期間            | プロジェクト名                                    | 役割                        | 使用技術                                       |
 |------------------------|---------------------|---------------------------------------------------|-----------------------------|------------------------------------------------|
-| 開発中                 | —                   | そろばん教室ホームページ・学習アプリの開発（自社） | 代表・フルスタックエンジニア | Flutter                                        |
+| 開発中                 | —                   | そろばん教室ホームページ・学習アプリの開発（自社） | 代表・フルスタックエンジニア | Flutter, Astro, Cloudflare                     |
 | 2026年1月～現在        | 10ヶ月（在籍中）    | ポイ活アプリ・ミニゲームアプリの開発（受託）       | アプリエンジニア（デザイン兼任） | Flutter, Flame, Firebase, Cloud Functions  |
 | 2025年10月～現在       | 1年1ヶ月（在籍中）  | 大手テーマパーク公式アプリの開発                   | ソフトウェアエンジニア       | Flutter, .NET, Node.js, Firebase, GCP, Azure   |
 | 2024年12月～2025年4月  | 5ヶ月               | 契約書管理クラウドサービスの開発                   | SRE、フルスタックエンジニア  | Ruby on Rails, Terraform, AWS, MySQL, Datadog  |
@@ -61,10 +61,10 @@
 |------------------------------|---------------------------------------------------------------------------------------------|
 | **AI / 開発支援**            | Claude Code（サブエージェント、hooks、マルチエージェント構成）, MCP（Figma, Notion, mcp_flutter）, ChatGPT（画像生成） |
 | **Programming Languages**    | Dart, Python, Kotlin, Java, Swift, Objective-C, Ruby, JavaScript, TypeScript                |
-| **Frameworks**               | Flutter, Flame, Ruby on Rails, React, Flask, Laravel, Node.js, .NET                         |
+| **Frameworks**               | Flutter, Flame, Ruby on Rails, React, Flask, Laravel, Node.js, .NET, Astro                  |
 | **Container Technology**     | Docker                                                                                      |
 | **CI/CD**                    | CircleCI, GitLab, Bitrise, DeployGate, GitHub Actions, Firebase App Distribution            |
-| **Cloud Services**           | Firebase (Authentication, Firestore, Cloud Functions, DynamicLinks, Hosting), AWS, GCP, Azure |
+| **Cloud Services**           | Firebase (Authentication, Firestore, Cloud Functions, DynamicLinks, Hosting), AWS, GCP, Azure, Cloudflare |
 | **IaC**                      | Terraform                                                                                   |
 | **DB**                       | MySQL, MongoDB, PostgreSQL, Firestore                                                       |
 | **Project Management Tools** | Slack, Jira, Notion, Backlog, ClickUp, Asana, draw.io, Miro                                 |
@@ -84,8 +84,9 @@
   - Figma MCP と画像生成 AI でデザイン・素材を内製
   - GitHub Actions で CI/CD を構築し、ビルド・配信を自動化
   - Figma MCP を使って App Store 用スクリーンショットを作成
-- **使用技術**: Flutter
-- **その他ツール**: Claude Code, Figma（MCP）, ChatGPT（画像生成）, GitHub Actions
+- **使用技術**: Flutter, Astro, Cloudflare
+- **CI/CD**: GitHub Actions
+- **その他ツール**: Claude Code, Figma（MCP）, ChatGPT（画像生成）
 
 ### ポイ活アプリ・ミニゲームアプリの開発（受託）
 - **期間**: 2026年1月～現在
@@ -284,7 +285,7 @@
 
 | Period                | Duration                   | Project Name                                                         | Role                            | Technologies Used                              |
 |-----------------------|----------------------------|----------------------------------------------------------------------|---------------------------------|------------------------------------------------|
-| In progress           | —                          | Abacus School Website & Learning App (In-house)                      | Founder, Full-Stack Engineer    | Flutter                                        |
+| In progress           | —                          | Abacus School Website & Learning App (In-house)                      | Founder, Full-Stack Engineer    | Flutter, Astro, Cloudflare                     |
 | Jan 2026 – Present    | 10 months (ongoing)        | Points-Reward App & Mini-Game App (Contract)                         | App Engineer (incl. design)     | Flutter, Flame, Firebase, Cloud Functions      |
 | Oct 2025 – Present    | 1 year 1 month (ongoing)   | Official App for a Major Theme Park                                  | Software Engineer               | Flutter, .NET, Node.js, Firebase, GCP, Azure   |
 | Dec 2024 – Apr 2025   | 5 months                   | Development of a Contract Management Cloud Service                   | SRE, Full-Stack Engineer        | Ruby on Rails, Terraform, AWS, MySQL, Datadog  |
@@ -307,10 +308,10 @@
 |-------------------------------|-------------------------------------------------------------------------------------------------|
 | **AI / Dev Assistance**       | Claude Code (sub-agents, hooks, multi-agent setups), MCP (Figma, Notion, mcp_flutter), ChatGPT (image generation) |
 | **Programming Languages**     | Dart, Python, Kotlin, Java, Swift, Objective-C, Ruby, JavaScript, TypeScript                    |
-| **Frameworks**                | Flutter, Flame, Ruby on Rails, React, Flask, Laravel, Node.js, .NET                             |
+| **Frameworks**                | Flutter, Flame, Ruby on Rails, React, Flask, Laravel, Node.js, .NET, Astro                      |
 | **Container Technology**      | Docker                                                                                          |
 | **CI/CD**                     | CircleCI, GitLab, Bitrise, DeployGate, GitHub Actions, Firebase App Distribution                |
-| **Cloud Services**            | Firebase (Authentication, Firestore, Cloud Functions, DynamicLinks, Hosting), AWS, GCP, Azure   |
+| **Cloud Services**            | Firebase (Authentication, Firestore, Cloud Functions, DynamicLinks, Hosting), AWS, GCP, Azure, Cloudflare |
 | **IaC**                       | Terraform                                                                                       |
 | **Databases**                 | MySQL, MongoDB, PostgreSQL, Firestore                                                           |
 | **Project Management Tools**  | Slack, Jira, Notion, Backlog, ClickUp, Asana, draw.io, Miro                                     |
@@ -330,8 +331,9 @@
   - Produced designs and assets in-house using the Figma MCP and image-generation AI.
   - Built CI/CD with GitHub Actions to automate builds and distribution.
   - Created App Store screenshots using the Figma MCP.
-- **Technologies Used**: Flutter
-- **Other Tools**: Claude Code, Figma (MCP), ChatGPT (image generation), GitHub Actions
+- **Technologies Used**: Flutter, Astro, Cloudflare
+- **CI/CD**: GitHub Actions
+- **Other Tools**: Claude Code, Figma (MCP), ChatGPT (image generation)
 
 ### Points-Reward App & Mini-Game App (Contract)
 - **Period**: Jan 2026 – Present
