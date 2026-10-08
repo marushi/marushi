@@ -102,6 +102,8 @@
   - 継続利用を促す放置型の採掘ミニゲームを、MDA フレームワーク（Mechanics / Dynamics / Aesthetics）で設計し、狙う体験ごとに MVP を順に作って検証
   - Flutter / Flame でスプライトシートとステートマシンによるキャラクターアニメーションを実装
   - アプリ本体とゲームの複数リポジトリを、Claude Code のサブエージェントで並行開発
+  - AI を活用し、デザインの合意形成から実装までを短いサイクルで進行
+  - 数値を計測し、効果が出なかった施策は UI の変更や表示順の入れ替えなどで改善を繰り返した
 - **使用技術**: Flutter, Flame, Firebase, Cloud Functions
 - **その他ツール**: Claude Code, Figma（MCP）, ChatGPT（画像生成）
 
@@ -112,6 +114,8 @@
   - ビジネス側と開発チームの間に立ち、要望をヒアリングして Issue に起こし、開発を推進
   - 米国本社のチームと英語でやりとりしながら仕様の調整・開発を進行
   - Flutter アプリと .NET / Node.js のバックエンドの開発
+  - Flutter へのリプレイス後、数年間対応されていなかった、日本チームが繰り返し要望していた課題を解決
+  - 開発チームから実装コストが高いとして見送られていた要望について、システム全体を調べて低コストで実現できる方法を見つけ、1〜2ヶ月で実装
 - **使用技術**: Flutter, .NET, Node.js, Firebase, GCP, Azure
 
 ### 契約書管理クラウドサービスの開発（フリーランス）
@@ -170,6 +174,8 @@
 - **役割**: フルスタックエンジニア
 - **業務内容**:
   - GraphQL APIの開発、既存APIの高速化
+  - Datadog で Ruby on Rails 特有の重い処理（ActiveRecord のインスタンス生成など）を特定し、改善
+  - ユーザー登録・ログインのフローから不要な非同期処理を取り除き、フローを組み直すことで、1〜3時間かかっていた処理を数分に短縮
   - 社員番号による新規ログイン方法の追加
   - SAML連携機能の開発
   - Manual Management Systemの開発およびインフラ構築
@@ -221,7 +227,8 @@
 - **役割**: モバイルエンジニア
 - **業務内容**:
   - iOS、Android端末向けのキャッシュレス決済アプリの開発・保守
-  - リリースマネージャーとしてタスクの管理を担当
+  - リリースマネージャーとして、リリース日とリリースに含める内容を管理し、関係者と合意形成
+  - iOS / Android アプリの OEM 先向けメジャーアップデートを担当し、6万台の端末で利用されていたアプリのアップデートと追加機能の実装を完了
   - コードレビュー
 - **使用技術**: Kotlin, Java, Swift, Objective-C
 - **その他ツール**: GitLab, Firebase Analytics, Firebase Crashlytics
@@ -347,6 +354,8 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
   - Designed an idle mining mini-game for retention with the MDA framework (Mechanics / Dynamics / Aesthetics), validating one target experience at a time through MVPs.
   - Implemented character animation in Flutter / Flame using sprite sheets and a state machine.
   - Ran parallel development of the app and game repositories with Claude Code sub-agents.
+  - Used AI to move from design alignment to implementation in short cycles.
+  - Measured results, and where a change did not work, iterated by changing the UI or reordering what is displayed.
 - **Technologies Used**: Flutter, Flame, Firebase, Cloud Functions
 - **Other Tools**: Claude Code, Figma (MCP), ChatGPT (image generation)
 
@@ -357,6 +366,8 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
   - Bridged business stakeholders and the development team: gathered requests, turned them into issues, and drove development.
   - Coordinated specifications and development in English with the U.S. headquarters team.
   - Developed the Flutter app and .NET / Node.js backends.
+  - Resolved an issue the Japan team had repeatedly raised, which had been left unaddressed for several years after the replacement with Flutter.
+  - For requests the development team had declined as too costly, found a low-cost approach by reviewing the system as a whole and delivered it in 1–2 months.
 - **Technologies Used**: Flutter, .NET, Node.js, Firebase, GCP, Azure
 
 ### Development of a Contract Management Cloud Service (Freelance)
@@ -415,6 +426,8 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
 - **Role**: Full-Stack Engineer
 - **Responsibilities**:
   - Developed GraphQL APIs and optimized existing APIs for better performance.
+  - Used Datadog to identify heavy processing specific to Ruby on Rails (e.g. ActiveRecord object instantiation) and improved it.
+  - Removed unnecessary asynchronous processing from the user registration and login flow and restructured the flow, reducing a process that took 1–3 hours to a few minutes.
   - Added a new login method using employee numbers.
   - Developed SAML integration functionality.
   - Developed the Manual Management System and set up its infrastructure.
@@ -466,7 +479,8 @@ Full-stack engineer centered on mobile (Flutter / iOS / Android), covering backe
 - **Role**: Mobile Engineer
 - **Responsibilities**:
   - Developed and maintained cashless payment apps for iOS and Android.
-  - Managed tasks as Release Manager.
+  - As Release Manager, managed release dates and scope and reached agreement on them with stakeholders.
+  - Handled a major update of the iOS / Android apps for an OEM partner, completing the update and new feature implementation for an app in use on 60,000 devices.
   - Conducted code reviews.
 - **Technologies Used**: Kotlin, Java, Swift, Objective-C
 - **Other Tools**: GitLab, Firebase Analytics, Firebase Crashlytics
