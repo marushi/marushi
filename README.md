@@ -1,7 +1,7 @@
 # Shion Maruko / 丸子司恩
 **Full-Stack Engineer (Flutter / Ruby on Rails / React / Cloud Infra) · AI-Assisted Development**
 
-2026/10/07
+2026/10/19
 
 <details>
 <summary>日本語 (クリックして展開)</summary>
@@ -17,7 +17,17 @@
 | **バックエンド** | <img src="https://skillicons.dev/icons?i=rails,nodejs" height="36" /><br>Ruby on Rails, Node.js | .NET, Flask, Laravel |
 | **フロントエンド** | <img src="https://skillicons.dev/icons?i=react,ts" height="36" /><br>React, TypeScript | Astro |
 | **クラウド・インフラ** | <img src="https://skillicons.dev/icons?i=aws,firebase,terraform" height="36" /><br>AWS, Firebase, Terraform | GCP, Azure, Cloudflare, Docker |
-| **AI / 開発支援** | Claude Code（サブエージェント、hooks） | MCP（Figma, Notion, mcp_flutter）, ChatGPT（画像生成） |
+| **AI / 開発支援** | Claude Code | MCP（Figma, Notion, mcp_flutter） |
+
+## その他スキル
+| 項目 | 内容 |
+|---|---|
+| **プログラミング言語** | Python, Ruby, JavaScript |
+| **CI/CD** | GitHub Actions, CircleCI, GitLab, Bitrise, DeployGate, Firebase App Distribution |
+| **データベース** | MySQL, PostgreSQL, MongoDB, Firestore |
+| **監視ツール** | Datadog, Sentry, OpsRamp, Firebase Analytics |
+| **プロジェクト管理ツール** | Slack, Jira, Notion, Backlog, ClickUp, Asana, draw.io, Miro |
+| **その他ツール** | GitHub, CodeCommit, Figma, Alchemy, Firebase Cloud Messaging, ReactQuill |
 
 ## AI活用
 - **デザイナー不在でのUI制作**: Figma MCP と ChatGPT の画像生成を組み合わせ、画面デザイン・アイコン・ゲーム素材などを内製。デザイナーがいないチームでもポイ活アプリの機能追加や新規ミニゲームアプリを開発
@@ -25,21 +35,6 @@
 - **Claude Code の環境整備**: CLAUDE.md による規約整備、hooks・サブエージェントの設定
 - **MCP 連携**: Notion MCP で複数プロジェクトの仕様・ドキュメントを管理。mcp_flutter を導入し、スクリーンショット取得・Widget ツリー確認・ホットリロードを AI から実行できる Flutter 開発環境を構築
 - **開発以外への展開**: 事業計画、採用・労務まわりの書類整備など、事業運営の業務にも AI を活用
-
-## エンジニアリング以外の経験
-### 事業運営
-- **そろばん教室の開校準備**: 楽珠そろばん教室（フランチャイズ）千鳥橋校（大阪市此花区）
-  - 商圏・競合の分析と会場選定
-  - 月謝・生徒数・固定費をもとにした収支計画の作成
-  - 講師の採用、雇用契約・勤怠・給与管理の仕組みづくり
-  - チラシ配布や Google ビジネスプロフィールを使った集客施策の設計
-
-### 開発案件での開発以外の役割
-- 大手テーマパーク公式アプリ: ビジネス側の要望をヒアリングして Issue に落とし込み、米国本社と英語で調整
-- 新決済方法導入コンサルティング: PM としてスケジュール管理・顧客折衝
-- キャッシュレス決済アプリ: リリースマネージャーとしてリリース日と内容を管理
-- Android 決済端末の新規プロダクト: リード
-- ポイ活アプリ: MDA フレームワークを用いたゲーミフィケーション設計と仮説検証
 
 ## 略歴
 
@@ -62,21 +57,6 @@
 | 2021年3月～2021年8月   | 6ヶ月               | 英語学習アプリの開発                               | モバイルエンジニア           | Flutter, Python                                |
 | 2020年8月～2023年8月   | 3年1ヶ月            | 生活改善系アプリの開発                             | モバイルエンジニア           | Swift, Kotlin, Flutter                         |
 
-
-## スキル一覧
-| Item                         | Content                                                                                     |
-|------------------------------|---------------------------------------------------------------------------------------------|
-| **AI / 開発支援**            | Claude Code（サブエージェント、hooks）, MCP（Figma, Notion, mcp_flutter）, ChatGPT（画像生成） |
-| **Programming Languages**    | Dart, Python, Kotlin, Java, Swift, Objective-C, Ruby, JavaScript, TypeScript                |
-| **Frameworks**               | Flutter, Flame, Ruby on Rails, React, Flask, Laravel, Node.js, .NET, Astro                  |
-| **Container Technology**     | Docker                                                                                      |
-| **CI/CD**                    | CircleCI, GitLab, Bitrise, DeployGate, GitHub Actions, Firebase App Distribution            |
-| **Cloud Services**           | Firebase (Authentication, Firestore, Cloud Functions, DynamicLinks, Hosting), AWS, GCP, Azure, Cloudflare |
-| **IaC**                      | Terraform                                                                                   |
-| **DB**                       | MySQL, MongoDB, PostgreSQL, Firestore                                                       |
-| **Project Management Tools** | Slack, Jira, Notion, Backlog, ClickUp, Asana, draw.io, Miro                                 |
-| **Monitoring Tool**          | Datadog, Sentry, OpsRamp, Firebase Analytics                                                |
-| **Other Tools**              | GitHub, CodeCommit, Figma, Alchemy, Firebase Cloud Messaging, ReactQuill                    |
 
 ## プロジェクト経験
 
@@ -271,7 +251,17 @@
 | **Backend** | <img src="https://skillicons.dev/icons?i=rails,nodejs" height="36" /><br>Ruby on Rails, Node.js | .NET, Flask, Laravel |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,ts" height="36" /><br>React, TypeScript | Astro |
 | **Cloud / Infra** | <img src="https://skillicons.dev/icons?i=aws,firebase,terraform" height="36" /><br>AWS, Firebase, Terraform | GCP, Azure, Cloudflare, Docker |
-| **AI / Dev Assistance** | Claude Code (sub-agents, hooks) | MCP (Figma, Notion, mcp_flutter), ChatGPT (image generation) |
+| **AI / Dev Assistance** | Claude Code | MCP (Figma, Notion, mcp_flutter) |
+
+## Other Skills
+| Item | Content |
+|---|---|
+| **Programming Languages** | Python, Ruby, JavaScript |
+| **CI/CD** | GitHub Actions, CircleCI, GitLab, Bitrise, DeployGate, Firebase App Distribution |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Firestore |
+| **Monitoring Tools** | Datadog, Sentry, OpsRamp, Firebase Analytics |
+| **Project Management Tools** | Slack, Jira, Notion, Backlog, ClickUp, Asana, draw.io, Miro |
+| **Other Tools** | GitHub, CodeCommit, Figma, Alchemy, Firebase Cloud Messaging, ReactQuill |
 
 ## AI Utilization
 - **UI production without a designer**: Produced screen designs, icons, and game assets in-house by combining the Figma MCP with ChatGPT image generation, enabling feature work on a points-reward app and a new mini-game app in a team with no designer.
@@ -279,21 +269,6 @@
 - **Claude Code setup**: Set up conventions in CLAUDE.md and configured hooks and sub-agents.
 - **MCP integrations**: Managed specs and docs for multiple projects with the Notion MCP. Introduced mcp_flutter to build a Flutter environment where AI can take screenshots, inspect the widget tree, and trigger hot reloads.
 - **Beyond development**: Used AI for business operations as well, such as business planning and preparing hiring and HR documents.
-
-## Non-Engineering Experience
-### Business Operations
-- **Preparing to open an abacus school**: Chidoribashi branch of a franchise abacus school (楽珠そろばん教室), Konohana-ku, Osaka
-  - Analyzed the trade area and competitors, and selected the venue.
-  - Built a financial plan based on tuition, student numbers, and fixed costs.
-  - Hired instructors and set up employment contracts, attendance tracking, and payroll.
-  - Planned customer acquisition through flyer distribution and Google Business Profile.
-
-### Non-Development Roles in Projects
-- Official app for a major theme park: gathered business-side requests, turned them into issues, and coordinated in English with the U.S. headquarters.
-- Consulting on introducing a new payment method: as PM, managed schedules and client negotiations.
-- Cashless payment app: as Release Manager, managed release dates and scope.
-- New product for Android payment terminals: Lead.
-- Points-reward app: gamification design and hypothesis testing with the MDA framework.
 
 ## Career History
 
@@ -315,22 +290,6 @@
 | Jul 2021 – Jul 2023   | 2 years 1 month            | Development of a Cashless Payment Mobile App                         | Mobile Engineer                 | Kotlin, Java, Swift, Objective-C               |
 | Mar 2021 – Aug 2021   | 6 months                   | Development of an English Learning App                               | Mobile Engineer                 | Flutter, Python                                |
 | Aug 2020 – Aug 2023   | 3 years 1 month            | Development of a Lifestyle Improvement App                           | Mobile Engineer                 | Swift, Kotlin, Flutter                         |
-
-## Skills
-
-| Item                          | Content                                                                                         |
-|-------------------------------|-------------------------------------------------------------------------------------------------|
-| **AI / Dev Assistance**       | Claude Code (sub-agents, hooks), MCP (Figma, Notion, mcp_flutter), ChatGPT (image generation) |
-| **Programming Languages**     | Dart, Python, Kotlin, Java, Swift, Objective-C, Ruby, JavaScript, TypeScript                    |
-| **Frameworks**                | Flutter, Flame, Ruby on Rails, React, Flask, Laravel, Node.js, .NET, Astro                      |
-| **Container Technology**      | Docker                                                                                          |
-| **CI/CD**                     | CircleCI, GitLab, Bitrise, DeployGate, GitHub Actions, Firebase App Distribution                |
-| **Cloud Services**            | Firebase (Authentication, Firestore, Cloud Functions, DynamicLinks, Hosting), AWS, GCP, Azure, Cloudflare |
-| **IaC**                       | Terraform                                                                                       |
-| **Databases**                 | MySQL, MongoDB, PostgreSQL, Firestore                                                           |
-| **Project Management Tools**  | Slack, Jira, Notion, Backlog, ClickUp, Asana, draw.io, Miro                                     |
-| **Monitoring Tools**          | Datadog, Sentry, OpsRamp, Firebase Analytics                                                    |
-| **Other Tools**               | GitHub, CodeCommit, Figma, Alchemy, Firebase Cloud Messaging, ReactQuill                        |
 
 ## Project Experience
 
